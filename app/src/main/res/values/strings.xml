@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="click_me">Click me!</string>
+    <string name="tetris">TETRIS</string>
+    <string name="current_score">CURRENT SCORE</string>
+    <string name="high_score">High SCORE</string>
+    <string name="btn_restart">RESTART</string>
+</resources>
